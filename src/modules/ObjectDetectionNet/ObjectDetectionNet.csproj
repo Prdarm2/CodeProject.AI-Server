@@ -91,7 +91,7 @@
 
 		<PackageReference Include="SkiaSharp" Version="2.88.3" />
 	
-		<PackageReference Include="Microsoft.Extensions.Hosting" Version="7.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.1" />
 	</ItemGroup>
 
 	<!-- Output the settings based on what we've determined above -->
